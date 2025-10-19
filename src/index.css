@@ -1,1 +1,5 @@
 @import "tailwindcss";
+
+#head{
+    @apply text-gray-500 text-sm
+}
